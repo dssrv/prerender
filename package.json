@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^6.5.0",
+    "autoprefixer": "^7.0.0",
     "coffee-script": "^1.11.0",
     "ejs": "^2.3.4",
     "harp-minify": "^0.4.0",
@@ -44,8 +44,8 @@
     "through": "2.3.8"
   },
   "devDependencies": {
-    "jshint": "^2.9.4",
-    "mocha": "^3.1.0",
     "should": "^12.0.0"
+    "jshint": "2.9.5",
+    "mocha": "3.5.3",
   }
 }
