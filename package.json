@@ -46,6 +46,6 @@
   "devDependencies": {
     "jshint": "2.9.6",
     "should": "13.1.2",
-    "mocha": "4.0.1"
+    "mocha": "7.1.0"
   }
 }
