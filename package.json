@@ -36,7 +36,7 @@
     "less": "^2.5.3",
     "lodash": "^4.16.6",
     "lru-cache": "^4.0.0",
-    "marked": "^1.0.0",
+    "marked": "^2.0.0",
     "node-sass": "^5.0.0",
     "postcss": "^8.0.0",
     "stylus": "^0.54.5",
