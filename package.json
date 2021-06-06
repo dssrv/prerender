@@ -44,7 +44,7 @@
     "through": "2.3.8"
   },
   "devDependencies": {
-    "jshint": "2.9.6",
+    "jshint": "2.13.0",
     "should": "13.2.3",
     "mocha": "8.2.1"
   }
